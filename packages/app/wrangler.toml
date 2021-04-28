@@ -1,0 +1,10 @@
+name = "nitro-debug"
+type = "javascript"
+account_id = "CHANGEME"
+route = ""
+zone_id = ""
+workers_dev = true
+
+[site]
+bucket = "./.output/public"
+entry-point = "./.output"
